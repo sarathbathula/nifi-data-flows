@@ -1009,7 +1009,22 @@
     "funnels" : [ ],
     "identifier" : "flow-contents-group",
     "inputPorts" : [ ],
-    "labels" : [ ],
+    "labels" : [ {
+      "componentType" : "LABEL",
+      "groupIdentifier" : "flow-contents-group",
+      "height" : 120.0,
+      "identifier" : "83009204-25a4-3b14-9549-357551cf224a",
+      "label" : "This DataFlow performs data movement between PostGres to Snowflake.",
+      "position" : {
+        "x" : 472.11889209554647,
+        "y" : -193.42802627826381
+      },
+      "style" : {
+        "font-size" : "14px"
+      },
+      "width" : 608.0,
+      "zIndex" : 1
+    } ],
     "maxConcurrentTasks" : 1,
     "name" : "PostGresTable2Snowflake",
     "outputPorts" : [ ],
@@ -1604,6 +1619,6 @@
   "snapshotMetadata" : {
     "author" : "nifiadmin",
     "flowIdentifier" : "postgres2snowflake",
-    "timestamp" : 1757003893420
+    "timestamp" : 1757004480583
   }
 }
