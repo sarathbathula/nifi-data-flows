@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1757003892269,
+    "description" : "This flow is created for git hub testing",
+    "identifier" : "postgres2snowflake",
+    "lastModifiedTimestamp" : 1757003892269,
+    "name" : "postgres2snowflake",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
